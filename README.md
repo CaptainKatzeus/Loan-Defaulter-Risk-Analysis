@@ -27,5 +27,4 @@ Default risk in this dataset is driven primarily by **loan grade** and **FICO sc
 - `loan_data_cleaned.csv` — cleaned dataset (59,585 rows)
 - `dashboard_screenshot.png` — Power BI dashboard preview
 
-## Dashboard preview
-*(screenshot goes here)*
+![Dashboard preview](dashboard_screenshot.png)
